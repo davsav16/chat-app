@@ -3,7 +3,7 @@
 ## I created this chat app by following a tutorial to teach myself how to use Chat Engine and react to create a fully functioning chat app. This app challenged me as I had to learn different ways of using state. 
 
 ## Usage
-To use this app you will need login as one of the users that I have already created or you can clone the repository and then go to https://chatengine.io/ and create your own project with your own users and admin. It is really easy to do and quite usefull.
+To use this app you will need login as one of the users that I have already created or you can clone the repository and then go to https://chatengine.io/ and create your own project with your own users and admin. It is really easy to do and quite useful.
 
 ## Tools used:
 Axios
